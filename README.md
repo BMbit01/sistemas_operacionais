@@ -1,2 +1,2 @@
 # sistemas_operacionais
-Repo dedicado disciplina de Sistemas Operacionais
+Repo dedicado a disciplina de Sistemas Operacionais
